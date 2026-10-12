@@ -1,0 +1,388 @@
+{
+  "title": "Аванта — вайрфреймы",
+  "version": "01",
+  "date": "2026-10-08",
+  "baseFrames": 26,
+  "totalFrames": 28,
+  "frames": [
+    {
+      "id": "P01-desktop-default",
+      "page": "P01",
+      "title": "Главная",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P01",
+      "viewer": "#view=pages&page=P01&device=desktop&state=default"
+    },
+    {
+      "id": "P01-phone-default",
+      "page": "P01",
+      "title": "Главная",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P01",
+      "viewer": "#view=pages&page=P01&device=phone&state=default"
+    },
+    {
+      "id": "P02-desktop-default",
+      "page": "P02",
+      "title": "О нас",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P02",
+      "viewer": "#view=pages&page=P02&device=desktop&state=default"
+    },
+    {
+      "id": "P02-phone-default",
+      "page": "P02",
+      "title": "О нас",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P02",
+      "viewer": "#view=pages&page=P02&device=phone&state=default"
+    },
+    {
+      "id": "P03-desktop-default",
+      "page": "P03",
+      "title": "СМИ о нас",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P03",
+      "viewer": "#view=pages&page=P03&device=desktop&state=default"
+    },
+    {
+      "id": "P03-phone-default",
+      "page": "P03",
+      "title": "СМИ о нас",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P03",
+      "viewer": "#view=pages&page=P03&device=phone&state=default"
+    },
+    {
+      "id": "P04-desktop-default",
+      "page": "P04",
+      "title": "Экспертные материалы",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P04",
+      "viewer": "#view=pages&page=P04&device=desktop&state=default"
+    },
+    {
+      "id": "P04-phone-default",
+      "page": "P04",
+      "title": "Экспертные материалы",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P04",
+      "viewer": "#view=pages&page=P04&device=phone&state=default"
+    },
+    {
+      "id": "P05-desktop-default",
+      "page": "P05",
+      "title": "Книги",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P05",
+      "viewer": "#view=pages&page=P05&device=desktop&state=default"
+    },
+    {
+      "id": "P05-phone-default",
+      "page": "P05",
+      "title": "Книги",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P05",
+      "viewer": "#view=pages&page=P05&device=phone&state=default"
+    },
+    {
+      "id": "P06-desktop-default",
+      "page": "P06",
+      "title": "Наши корни",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P06",
+      "viewer": "#view=pages&page=P06&device=desktop&state=default"
+    },
+    {
+      "id": "P06-phone-default",
+      "page": "P06",
+      "title": "Наши корни",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P06",
+      "viewer": "#view=pages&page=P06&device=phone&state=default"
+    },
+    {
+      "id": "P07-desktop-default",
+      "page": "P07",
+      "title": "Образовательные программы",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P07",
+      "viewer": "#view=pages&page=P07&device=desktop&state=default"
+    },
+    {
+      "id": "P07-phone-default",
+      "page": "P07",
+      "title": "Образовательные программы",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P07",
+      "viewer": "#view=pages&page=P07&device=phone&state=default"
+    },
+    {
+      "id": "P08-desktop-default",
+      "page": "P08",
+      "title": "Акселерация",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P08",
+      "viewer": "#view=pages&page=P08&device=desktop&state=default"
+    },
+    {
+      "id": "P08-phone-default",
+      "page": "P08",
+      "title": "Акселерация",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P08",
+      "viewer": "#view=pages&page=P08&device=phone&state=default"
+    },
+    {
+      "id": "P09-desktop-default",
+      "page": "P09",
+      "title": "Лента событий",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P09",
+      "viewer": "#view=pages&page=P09&device=desktop&state=default"
+    },
+    {
+      "id": "P09-phone-default",
+      "page": "P09",
+      "title": "Лента событий",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P09",
+      "viewer": "#view=pages&page=P09&device=phone&state=default"
+    },
+    {
+      "id": "P10-desktop-default",
+      "page": "P10",
+      "title": "Лидерство в турбулентности",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P10",
+      "viewer": "#view=pages&page=P10&device=desktop&state=default"
+    },
+    {
+      "id": "P10-desktop-after",
+      "page": "P10",
+      "title": "Лидерство в турбулентности",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "after",
+      "url": "prototype.html?page=P10&state=after",
+      "viewer": "#view=pages&page=P10&device=desktop&state=after"
+    },
+    {
+      "id": "P10-phone-default",
+      "page": "P10",
+      "title": "Лидерство в турбулентности",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P10",
+      "viewer": "#view=pages&page=P10&device=phone&state=default"
+    },
+    {
+      "id": "P10-phone-after",
+      "page": "P10",
+      "title": "Лидерство в турбулентности",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "after",
+      "url": "prototype.html?page=P10&state=after",
+      "viewer": "#view=pages&page=P10&device=phone&state=after"
+    },
+    {
+      "id": "P11-desktop-default",
+      "page": "P11",
+      "title": "Партнёрам",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P11",
+      "viewer": "#view=pages&page=P11&device=desktop&state=default"
+    },
+    {
+      "id": "P11-phone-default",
+      "page": "P11",
+      "title": "Партнёрам",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P11",
+      "viewer": "#view=pages&page=P11&device=phone&state=default"
+    },
+    {
+      "id": "P12-desktop-default",
+      "page": "P12",
+      "title": "Клуб и членство",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P12",
+      "viewer": "#view=pages&page=P12&device=desktop&state=default"
+    },
+    {
+      "id": "P12-phone-default",
+      "page": "P12",
+      "title": "Клуб и членство",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P12",
+      "viewer": "#view=pages&page=P12&device=phone&state=default"
+    },
+    {
+      "id": "P13-desktop-default",
+      "page": "P13",
+      "title": "Контакты",
+      "width": 1440,
+      "viewportHeight": 900,
+      "state": "default",
+      "url": "prototype.html?page=P13",
+      "viewer": "#view=pages&page=P13&device=desktop&state=default"
+    },
+    {
+      "id": "P13-phone-default",
+      "page": "P13",
+      "title": "Контакты",
+      "width": 390,
+      "viewportHeight": 844,
+      "state": "default",
+      "url": "prototype.html?page=P13",
+      "viewer": "#view=pages&page=P13&device=phone&state=default"
+    }
+  ],
+  "states": {
+    "P01": [
+      "default",
+      "filled",
+      "validation",
+      "sending",
+      "success",
+      "error"
+    ],
+    "P02": [
+      "default",
+      "person"
+    ],
+    "P03": [
+      "default",
+      "filtered",
+      "empty"
+    ],
+    "P04": [
+      "default",
+      "filtered",
+      "empty",
+      "article"
+    ],
+    "P05": [
+      "default",
+      "book"
+    ],
+    "P06": [
+      "default"
+    ],
+    "P07": [
+      "default",
+      "program",
+      "closed",
+      "filled",
+      "validation",
+      "sending",
+      "success",
+      "error"
+    ],
+    "P08": [
+      "default",
+      "case",
+      "filled",
+      "validation",
+      "sending",
+      "success",
+      "error"
+    ],
+    "P09": [
+      "default",
+      "filtered",
+      "empty",
+      "event"
+    ],
+    "P10": [
+      "default",
+      "after",
+      "speaker",
+      "filled",
+      "validation",
+      "sending",
+      "success",
+      "error"
+    ],
+    "P11": [
+      "default",
+      "filled",
+      "validation",
+      "sending",
+      "success",
+      "error"
+    ],
+    "P12": [
+      "default",
+      "filled",
+      "validation",
+      "sending",
+      "success",
+      "error"
+    ],
+    "P13": [
+      "default",
+      "filled",
+      "validation",
+      "sending",
+      "success",
+      "error"
+    ],
+    "components": [
+      "default",
+      "filled",
+      "validation",
+      "sending",
+      "success",
+      "error"
+    ]
+  }
+}

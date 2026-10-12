@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-12",
+  "archive_date": "2026-10-08",
+  "blocks": [
+    {
+      "block": 1,
+      "title": "Первый экран",
+      "source_url": "https://avanta.ru/#events",
+      "source_block": "rec676222088",
+      "usage": "Фотография «Лаборатории смыслов», 2022. Новый заголовок и вводный текст — предложение дизайна.",
+      "status": "source + proposed copy"
+    },
+    {
+      "block": 2,
+      "title": "Миссия",
+      "source_url": "https://avanta.ru/#mission",
+      "source_block": "rec2092999471",
+      "usage": "Сохранена формулировка о сопровождении в развитии людей и проектов. Короткое пояснение адаптировано.",
+      "status": "existing text + adaptation"
+    },
+    {
+      "block": 3,
+      "title": "Принципы",
+      "source_url": null,
+      "source_block": null,
+      "usage": "Шесть новых формулировок. В макете явно отмечено требование согласования.",
+      "status": "proposal"
+    },
+    {
+      "block": 4,
+      "title": "Для кого",
+      "source_url": null,
+      "source_block": null,
+      "usage": "Пять аудиторий из брифа. Первые две — равные крупные карточки. Короткие подписи предложены для макета.",
+      "status": "brief + proposed copy"
+    },
+    {
+      "block": 5,
+      "title": "Направления",
+      "source_url": "https://avanta.ru/",
+      "source_block": "rec676222088",
+      "usage": "Фото Академии инноваторов 2023, экспортного акселератора 2020 и Импакт Дэя 2021. Три направления — из брифа.",
+      "status": "archive + brief"
+    },
+    {
+      "block": 6,
+      "title": "Наследие и книги",
+      "source_url": "https://avanta.ru/encyclopediaavanta",
+      "source_block": "rec520975633",
+      "usage": "Архивные фотографии книг; серия 1993–2011, 63 книги, более 20 млн экземпляров. Книга «Невероятный русский — 2»: /khudozhestvennaja_literatura/, rec1553881401. Преемственность ожидает утверждения.",
+      "status": "existing archive; lineage approval pending"
+    },
+    {
+      "block": 7,
+      "title": "Лидеры и эксперты",
+      "source_url": "https://avanta.ru/#about",
+      "source_block": "rec676222067 / rec676222074",
+      "usage": "Мария Аксёнова, Елена Голикова, Константин Джимбинов, Руслан Байрамов, Александр Гальчин. Фото и краткие профессиональные описания из сайта. Должности для релиза нужно подтвердить.",
+      "status": "existing site profiles"
+    },
+    {
+      "block": 8,
+      "title": "Опыт и результаты",
+      "source_url": "https://avanta.ru/#events",
+      "source_block": "rec676222088",
+      "usage": "50 проектов и 26 выпускников экспортного акселератора 2020; Академия инноваторов 2023. Экспертная роль РВФ2025 и своё мероприятие Импакт Дэй2021.",
+      "status": "dated archive descriptions"
+    },
+    {
+      "block": 9,
+      "title": "Ближайшее событие",
+      "source_url": "https://leadership.avanta.ru/",
+      "source_block": null,
+      "usage": "Анонс 13 октября 2026, 12–18, главный офис Альфа-Банка, бесплатно по заявке. Проверен 12 октября через Firecrawl. Типографический анонс — новый дизайн.",
+      "status": "live source checked 2026-10-12"
+    },
+    {
+      "block": 10,
+      "title": "Знания и практика",
+      "source_url": "https://avanta.ru/acsel",
+      "source_block": "rec521012493",
+      "usage": "Подборка материалов /acsel, /m-m, /khudozhestvennaja_literatura/. Это описания программ и книги; подготовленные авторские статьи для P04 ещё нужны.",
+      "status": "existing materials; new article inventory pending"
+    },
+    {
+      "block": 11,
+      "title": "СМИ",
+      "source_url": "https://avanta.ru/encyclopediaavanta",
+      "source_block": "rec520975655",
+      "usage": "ТАСС: упоминание брифинга в архиве РВФ2025; журнал Книжный бизнес1999; газета Наше время2007. Прямые адреса внешних публикаций не предоставлены.",
+      "status": "archive mentions; external publication URLs pending"
+    },
+    {
+      "block": 12,
+      "title": "Партнёры",
+      "source_url": "https://avanta.ru/#partners",
+      "source_block": "rec676222083",
+      "usage": "Шесть логотипов из существующего партнёрского блока. Актуальность состава для новой версии требует подтверждения.",
+      "status": "existing site logos; current roster approval pending"
+    },
+    {
+      "block": 13,
+      "title": "Приглашение и форма",
+      "source_url": null,
+      "source_block": null,
+      "usage": "Единый путь бесплатного вступления — решение Артёма. Тексты пользы — предложение. Имя, контакт, согласие — из брифа.",
+      "status": "brief + prototype-only form"
+    },
+    {
+      "block": 14,
+      "title": "Футер",
+      "source_url": "https://avanta.ru/#contacts",
+      "source_block": "rec676222096",
+      "usage": "Email infoavantaru@gmail.com, Telegram и YouTube из существующего сайта. Реквизиты, контакт прессы и новые тексты согласий уточняются.",
+      "status": "existing contact + pending content"
+    }
+  ]
+}

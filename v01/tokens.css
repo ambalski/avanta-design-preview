@@ -1,0 +1,12 @@
+@font-face{font-family:Manrope;font-style:normal;font-weight:200 800;font-display:swap;src:url('assets/fonts/manrope-cyrillic.woff2') format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:Manrope;font-style:normal;font-weight:200 800;font-display:swap;src:url('assets/fonts/manrope-latin.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{
+  --ink:#182e2c;--muted:#5b6b64;--quiet:#64736b;--paper:#fafaf6;--white:#ffffff;
+  --forest:#14594c;--forest-deep:#103e36;--green:#16705b;--mint:#eaf1e9;--lime:#d9ecac;
+  --line:#dce2d9;--input-border:#7f9285;--sand:#eee9de;--focus:#215da3;--error:#a6372d;--error-bg:#fff0ed;--warning:#77521b;--warning-bg:#fff3d7;
+  --font:Manrope,Arial,sans-serif;--mono:ui-monospace,SFMono-Regular,Consolas,monospace;
+  --space-1:4px;--space-2:8px;--space-3:12px;--space-4:16px;--space-6:24px;--space-8:32px;--space-12:48px;--space-16:64px;--space-24:96px;
+  --radius-sm:8px;--radius-md:16px;--radius-lg:24px;--radius-pill:999px;
+  --container:1280px;--section-space:96px;--ease:cubic-bezier(.2,.7,.2,1);--duration:180ms;
+  --shadow:0 12px 32px #133d3610;--focus-ring:0 0 0 3px #ffffff,0 0 0 6px var(--focus);
+}
